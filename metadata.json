@@ -1,0 +1,6 @@
+{
+  "name": "Iron & Science - Fitness & Muscle Building Journal",
+  "description": "Evidence-based fitness, muscle building, and nutrition journal featuring comprehensive guides on progressive overload, hypertrophy, and biomechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
